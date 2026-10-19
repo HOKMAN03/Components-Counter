@@ -1,7 +1,7 @@
 # Automated Silhouette Component Counter
 **An Edge-Computed Machine Vision Workstation on the ESP32-CAM**
 
-![Project Overview](Hardware Implementation.jpg)
+![Project Overview](Hardware%20Implementation.jpg)
 
 
 ## Project Overview
@@ -32,7 +32,7 @@ The hardware implementation relies on the following primary tools and components
 * CCTV Female DC Power Connector
 * 400P Breadboard
 
-![Circuit Diagram](Circuit Diagram.png)
+![Circuit Diagram](Circuit%20Diagram.png)
 
 
 ## Software Process Pipeline
